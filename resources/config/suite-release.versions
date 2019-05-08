@@ -5,6 +5,7 @@ org.pentaho|pentaho-parent-pom=8.3.0.0-BUILDTAG
 org.pentaho|pentaho-ce-parent-pom=8.3.0.0-BUILDTAG
 org.pentaho|pentaho-ce-jar-parent-pom=8.3.0.0-BUILDTAG
 org.pentaho|pentaho-ce-bundle-parent-pom=8.3.0.0-BUILDTAG
+org.pentaho.di.plugins|pdi-plugins=8.3.0.0-BUILDTAG
 
 ael.version=8.3.0.0-BUILDTAG
 aggdesigner.version=8.3.0.0-BUILDTAG
@@ -79,7 +80,6 @@ pentaho-hadoop-shims-api.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-cdh512.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-cdh513.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-cdh514.version=8.3.2019.05.00-BUILDTAG
-pentaho-hadoop-shims-cdh601.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-cdh61.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-emr59.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-emr511.version=8.3.2019.05.00-BUILDTAG
