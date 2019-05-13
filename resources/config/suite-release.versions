@@ -83,6 +83,7 @@ pentaho-hadoop-shims-cdh601.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-cdh61.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-emr59.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-emr511.version=8.3.2019.05.00-BUILDTAG
+pentaho-hadoop-shims-emr521.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-hdp26.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-hdp30.version=8.3.2019.05.00-BUILDTAG
 pentaho-hadoop-shims-mapr520.version=8.3.2019.05.00-BUILDTAG
