@@ -2,8 +2,8 @@
 
 String jobParentFolder = params.JENKINS_FOLDER_NAME ?: "8.3"
 
-String releaseVersion = params.RELEASE_VERSION ?: "8.3.0.0"
-String suiteBuildResourcesBranch = params.SUITE_BUILD_RESOURCES_BRANCH ?: "8.3.0.0"
+String releaseVersion = params.RELEASE_VERSION ?: "8.3.0.1"
+String suiteBuildResourcesBranch = params.SUITE_BUILD_RESOURCES_BRANCH ?: "8.3.0.1"
 String suiteReleaseVersion = params.SUITE_RELEASE_VERSION ?: "8.3-QAT"
 String buildHostingRoot = params.BUILD_HOSTING_ROOT ?: "/build2/artifacts/hosted"
 String previousUpgradeReleaseVersion = params.PREVIOUS_UPGRADE_RELEASE_VERSION ?: "8.1.0.6-682"

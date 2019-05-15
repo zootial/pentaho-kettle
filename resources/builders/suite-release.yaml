@@ -20,11 +20,11 @@ buildProperties:
 
   # Version based control properties
   RUN_VERSIONING                 : true
-  RELEASE_VERSION                : 8.3.0.0
+  RELEASE_VERSION                : 8.3.0.1
   DEPLOYMENT_FOLDER              : 8.3-QAT
   RELEASE_MODE                   : true
-  DEFAULT_BRANCH                 : master
-  SUITE_BUILD_RESOURCES_BRANCH   : 8.3.0.0
+  DEFAULT_BRANCH                 : 8.3
+  SUITE_BUILD_RESOURCES_BRANCH   : 8.3.0.1
   SERVICEPACK_BRANCH             : ${DEFAULT_BRANCH}
   JENKINS_FOLDER_NAME            : "8.3"
 
@@ -42,7 +42,7 @@ buildProperties:
 
   # SP specific parameters
   PREVIOUS_RELEASE_VERSION       : ""
-  SP_RELEASE_VERSION             : "201904"
+  SP_RELEASE_VERSION             : "201905"
   DO_AUTO_PATCH                  : false
 
 
