@@ -2,8 +2,8 @@
 buildProperties:
   # global build control defaults -- see others you can override in resources/config/buildProperties.yaml
   # These are understood by the shared pipeline libraries:
-  BUILD_PLAN_ID                  : Master App Scan Suite Build
-  DEFAULT_BRANCH                 : master
+  BUILD_PLAN_ID                  : 8.3 App Scan Suite Build
+  DEFAULT_BRANCH                 : 8.3
 
   RUN_CHECKOUTS                  : true
   RUN_VERSIONING                 : false

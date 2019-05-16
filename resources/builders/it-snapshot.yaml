@@ -2,8 +2,8 @@
 buildProperties:
         # global build control defaults -- see others you can override in resources/config/buildProperties.yaml
         # These are understood by the shared pipeline libraries:
-        BUILD_PLAN_ID                  : Master Suite Build
-        DEFAULT_BRANCH                 : master
+        BUILD_PLAN_ID                  : 8.3 Suite Build
+        DEFAULT_BRANCH                 : 8.3
         MAVEN_DEFAULT_DIRECTIVES       : clean
         MAVEN_DEFAULT_COMMAND_OPTIONS  : -B -e -q -U
         MAVEN_TEST_OPTS                : -DsurefireArgLine=-Xmx1g \verify -DrunITs -Daudit -Dsonar -Dmaven.test.failure.ignore project-info-reports:dependencies
