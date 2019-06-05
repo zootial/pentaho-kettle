@@ -105,4 +105,10 @@ workflow-multibranch:latest
 workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
+<<<<<<< HEAD
 ws-cleanup:latest
+=======
+
+folder-properties:1.0::http://nexus.pentaho.org/content/groups/omni/com/mig82/folder-properties/1.0/folder-properties-1.0.hpi
+pipeline-ci-utility-steps:1.15::http://nexus.pentaho.org/content/groups/omni/org/hitachivantara/ci/plugins/pipeline-ci-utility-steps/1.15/pipeline-ci-utility-steps-1.15.hpi
+>>>>>>> 722051f... [BACKLOG-29333] Docker jenkins script does not install required Github plugin
