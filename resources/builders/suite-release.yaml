@@ -413,10 +413,9 @@ jobGroups:
        versionProperty :  pentaho-ccc-plugin.version
 
      - jobID           :  commons-ee
-       scmUrl          :  https://github.com/pentaho/pentaho-ee.git
+       scmUrl          :  https://github.com/pentaho/commons-ee.git
        scmBranch       :  ${DEFAULT_BRANCH}
        versionProperty :  commons-ee.version
-       root            :  commons
 
   2500:
 
@@ -638,11 +637,10 @@ jobGroups:
        directives      :  += -Djavadoc
        versionProperty :  pentaho-data-mining.version
 
-     - jobID           :  platform-plugins-ee
-       scmUrl          :  https://github.com/pentaho/pentaho-ee.git
+     - jobID           :  worker-nodes-ee-plugin
+       scmUrl          :  https://github.com/pentaho/worker-nodes-ee-plugin.git
        scmBranch       :  ${DEFAULT_BRANCH}
        versionProperty :  platform.version
-       root            :  platform/plugins/worker-nodes
 
   3700:
 
