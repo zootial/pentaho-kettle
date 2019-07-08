@@ -23,7 +23,7 @@ buildProperties:
   RELEASE_VERSION                : 8.3.0.1
   DEPLOYMENT_FOLDER              : 8.3.0.1
   RELEASE_MODE                   : true
-  DEFAULT_BRANCH                 : "8.3"
+  DEFAULT_BRANCH                 : "8.3.0.1"
   SUITE_BUILD_RESOURCES_BRANCH   : 8.3.0.1
   SERVICEPACK_BRANCH             : ${DEFAULT_BRANCH}
   JENKINS_FOLDER_NAME            : "8.3"
